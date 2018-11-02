@@ -1,1 +1,0 @@
-import 'babel-polyfill';import 'bootstrap';import './validator'
